@@ -27454,7 +27454,7 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-icon-3 {height: 100%}
 .u-header .u-icon-4 {height: 100%}
 .u-header .u-text-1 {margin: -26px calc(((100% - 1140px) / 2) + 756px) 0 calc(((100% - 1140px) / 2) + 192px)}
-.u-header .u-text-2 {margin: -26px calc(((100% - 1140px) / 2) + 987px) 0 calc(((100% - 1140px) / 2) + 34px)}
+.u-header .u-text-2 {margin: -26px calc(((100% - 1140px) / 2) + 968px) 0 calc(((100% - 1140px) / 2) + 34px)}
 .u-header .u-image-1 {margin: 32px auto 0 calc(((100% - 1140px) / 2))}
 .u-header .u-logo-image-1 {max-width: 63px; max-height: 63px}
 .u-header .u-menu-1 {margin: -36px calc(((100% - 1140px) / 2)) 20px auto}
@@ -27465,30 +27465,30 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-shape-1 {margin-left: initial}
 .u-header .u-social-icons-1 {margin-right: calc(((100% - 1140px) / 2) + 126px)}
 .u-header .u-text-1 {width: auto; margin-right: calc(((100% - 940px) / 2) + 560px); margin-left: calc(((100% - 940px) / 2) + 188px)}
-.u-header .u-text-2 {margin-right: calc(((100% - 940px) / 2) + 800px); margin-left: calc(((100% - 940px) / 2) + 21px)}
-.u-header .u-image-1 {width: 63px; margin-left: calc(((100% - 1140px) / 2) + 100px)}
+.u-header .u-text-2 {width: auto; margin-right: calc(((100% - 940px) / 2) + 765px); margin-left: calc(((100% - 940px) / 2) + 21px)}
+.u-header .u-image-1 {margin-left: calc(((100% - 940px) / 2))}
 .u-header .u-menu-1 {margin-right: calc(((100% - 1140px) / 2) + 100px)}
 .u-header .u-menu-close-1 {margin-top: 20px; margin-bottom: 0} }
 @media (max-width: 991px){ .u-header {min-height: 132px}
 .u-header .u-social-icons-1 {margin-right: calc(((100% - 1140px) / 2) + 227px)}
-.u-header .u-text-1 {margin-right: calc(((100% - 720px) / 2) + 333px); margin-left: calc(((100% - 720px) / 2) + 195px)}
-.u-header .u-text-2 {width: auto; margin-right: calc(((100% - 720px) / 2) + 580px); margin-left: calc(((100% - 720px) / 2) + 21px)}
+.u-header .u-text-1 {margin-right: calc(((100% - 720px) / 2) + 386px); margin-left: calc(((100% - 720px) / 2) + 180px)}
+.u-header .u-text-2 {margin-right: calc(((100% - 720px) / 2) + 560px); margin-left: calc(((100% - 720px) / 2) + 21px)}
 .u-header .u-image-1 {width: auto; margin-top: 27px; margin-left: calc(((100% - 720px) / 2))}
 .u-header .u-menu-1 {width: auto; margin-top: -37px; margin-right: calc(((100% - 720px) / 2) + 17px); margin-bottom: 25px} }
 @media (max-width: 767px){ .u-header {min-height: 144px}
 .u-header .u-shape-1 {height: 60px; margin-top: 3px; margin-left: initial}
 .u-header .u-social-icons-1 {margin-top: -47px; margin-right: calc(((100% - 540px) / 2) + 8px)}
-.u-header .u-text-1 {margin-right: calc(((100% - 540px) / 2) + 197px); margin-left: calc(((100% - 540px) / 2) + 151px)}
-.u-header .u-text-2 {margin-right: calc(((100% - 540px) / 2) + 410px); margin-left: calc(((100% - 540px) / 2) + 11px)}
-.u-header .u-image-1 {height: 42px; margin-top: 36px; margin-left: calc(((100% - 540px) / 2))}
-.u-header .u-menu-1 {margin-top: -37px; margin-right: calc(((100% - 540px) / 2) + 8px); margin-bottom: 21px} }
+.u-header .u-text-1 {margin-top: -30px; margin-right: calc(((100% - 540px) / 2) + 214px); margin-left: calc(((100% - 540px) / 2) + 172px)}
+.u-header .u-text-2 {margin-top: -22px; margin-right: calc(((100% - 540px) / 2) + 389px); margin-left: calc(((100% - 540px) / 2) + 11px)}
+.u-header .u-image-1 {margin-top: 36px; margin-left: calc(((100% - 540px) / 2))}
+.u-header .u-menu-1 {margin-right: calc(((100% - 540px) / 2) + 8px); margin-bottom: 21px} }
 @media (max-width: 575px){ .u-header {min-height: 218px}
 .u-header .u-shape-1 {height: 126px; margin-top: 0; margin-left: initial}
 .u-header .u-social-icons-1 {margin-top: -52px; margin-right: auto}
 .u-header .u-text-1 {margin-top: -67px; margin-left: auto; margin-right: auto}
-.u-header .u-text-2 {margin-top: -51px; margin-right: calc(((100% - 340px) / 2) + 110px); margin-left: calc(((100% - 340px) / 2) + 110px)}
-.u-header .u-image-1 {margin-top: 114px; margin-left: calc(((100% - 340px) / 2))}
-.u-header .u-menu-1 {margin-top: -41px; margin-right: calc(((100% - 340px) / 2))} }
+.u-header .u-text-2 {width: 155px; margin-top: -51px; margin-left: auto; margin-right: auto}
+.u-header .u-image-1 {margin-top: 105px; margin-left: calc(((100% - 340px) / 2))}
+.u-header .u-menu-1 {margin-top: -42px; margin-right: calc(((100% - 340px) / 2)); margin-bottom: 41px} }
  .u-footer .u-sheet-1 {min-height: 75px}
 .u-footer .u-image-1 {margin: 11px auto 0 0}
 .u-footer .u-logo-image-1 {max-width: 80px; max-height: 80px}
